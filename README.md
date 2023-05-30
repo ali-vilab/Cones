@@ -3,4 +3,3 @@ Official repo for [Cones: Concept Neurons in Diffusion Models for Customized Gen
 ## TODO
 
 - [ ] Release code in next week.
-- [ ] Release Gradio UI.
